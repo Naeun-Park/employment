@@ -32,7 +32,7 @@ export default function GuidePage() {
                         : 'text-gray-600 hover:bg-gray-100'
                     }`}
                   >
-                    {step.id단계: {step.name}
+                    {step.id}단계: {step.name}
                   </button>
                 ))}
               </nav>
